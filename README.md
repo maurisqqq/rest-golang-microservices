@@ -1,4 +1,4 @@
-## JOJONOMIC BACKEND TEST
+## Rest Golang Microservices
 
 ## STACK
 - GO (V1.20.2)
