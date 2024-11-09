@@ -1,4 +1,7 @@
-## Rest Golang Microservices
+# Rest Golang Microservices
+
+## Overview
+Go RESTful microservices with Kafka serving as the communication backbone between the services.
 
 ## STACK
 - GO (V1.20.2)
